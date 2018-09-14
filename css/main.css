@@ -94,7 +94,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #444;
+  background:radial-gradient(black,skyblue);
   color: #fff;
   height: 100%;
   margin: 0;
